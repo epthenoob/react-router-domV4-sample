@@ -1,7 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+## React-Router-DOM-V4 Sample
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+This project is about to know how to use react-router-dom especially v4 (4.1.2).
+
+## Getting Started
+* Create react-project use the `npm`.
+* Run react project with `npm start`.
+* Install `react-router-dom` using `yarn add react-router-dom` 
+  or `npm install react-router-dom` .
+
 
 ## Table of Contents
 
